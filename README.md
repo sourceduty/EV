@@ -5,7 +5,7 @@
 
 ## Electric Motor
 
-The history of electric motors spans centuries, beginning with early experiments in electromagnetism. In the 1820s, Michael Faraday's work laid the foundation for the modern electric motor, demonstrating that electric currents could create mechanical motion. This breakthrough led to the development of the first practical electric motor by Thomas Davenport in the 1830s. Davenport's motor could generate rotational movement and was a significant advancement in the field.
+The history of electric motors spans centuries, beginning with early experiments in electromagnetism. In the 1820's, Michael Faraday's work laid the foundation for the modern electric motor, demonstrating that electric currents could create mechanical motion. This breakthrough led to the development of the first practical electric motor by Thomas Davenport in the 1830s. Davenport's motor could generate rotational movement and was a significant advancement in the field.
 
 ## Infrastructure
 
@@ -19,7 +19,7 @@ It wasn't until the late 20th century, with the rise of consumer electronics and
 
 ## Development
 
-A pivotal moment in history before the 2000's when electric cars could have been developed and refined more extensively was during the oil crises of the 1970s. The oil shocks of 1973 and 1979, driven by geopolitical conflicts and supply disruptions in the Middle East, led to a sudden and sharp increase in oil prices, which prompted concerns about energy security and the dependence on fossil fuels.
+A pivotal moment in history before the 2000's when electric cars could have been developed and refined more extensively was during the oil crises of the 1970's. The oil shocks of 1973 and 1979, driven by geopolitical conflicts and supply disruptions in the Middle East, led to a sudden and sharp increase in oil prices, which prompted concerns about energy security and the dependence on fossil fuels.
 
 During this period, there was a heightened interest in alternative energy sources, including electric vehicles, as a means to reduce reliance on oil. Governments and automakers began to invest in electric car research and development. For example, in the United States, the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976 provided federal funding for electric vehicle projects. Automakers like General Motors and Ford experimented with electric car prototypes, such as the GM EV1.
 
