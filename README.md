@@ -5,7 +5,7 @@
 
 ## Electric Motor
 
-The history of electric motors spans centuries, beginning with early experiments in electromagnetism. In the 1820's, Michael Faraday's work laid the foundation for the modern electric motor, demonstrating that electric currents could create mechanical motion. This breakthrough led to the development of the first practical electric motor by Thomas Davenport in the 1830s. Davenport's motor could generate rotational movement and was a significant advancement in the field.
+The history of electric motors spans centuries, beginning with early experiments in electromagnetism. In the 1820's, Michael Faraday's work laid the foundation for the modern electric motor, demonstrating that electric currents could create mechanical motion. This breakthrough led to the development of the first practical electric motor by Thomas Davenport in the 1830's. Davenport's motor could generate rotational movement and was a significant advancement in the field.
 
 ## Infrastructure
 
