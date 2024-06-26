@@ -106,6 +106,8 @@ The EV1's story came to an abrupt end in 2003 when General Motors decided to dis
 
 > Alex: *"Electric vehicles are popularizing in an excruciatingly slow and opposed revolution of road travel."*
 
+> *"If the EV revolution was exactly like the AI revoltion then gasoline would now be illegal."*
+
 #
 ### Related Links
 
