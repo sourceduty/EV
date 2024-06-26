@@ -104,7 +104,7 @@ The EV1's story came to an abrupt end in 2003 when General Motors decided to dis
 
 #
 
-> Alex: *"Electric vehicles are slowly popularizing in an excruciatingly slow and opposed revolution of road travel."*
+> Alex: *"Electric vehicles are popularizing in an excruciatingly slow and opposed revolution of road travel."*
 
 #
 ### Related Links
