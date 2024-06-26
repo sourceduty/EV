@@ -110,6 +110,8 @@ The EV1's story came to an abrupt end in 2003 when General Motors decided to dis
 [Product Design](https://github.com/sourceduty/Product_Design)
 <br>
 [UFO Traffic Light](https://github.com/sourceduty/UFO_Traffic_Light)
+<br>
+[EV Charging](https://github.com/sourceduty/EV_Charging)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
