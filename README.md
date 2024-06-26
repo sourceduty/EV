@@ -103,6 +103,10 @@ During this period, the EV1 had few direct competitors in the market. Other auto
 The EV1's story came to an abrupt end in 2003 when General Motors decided to discontinue the program, citing financial losses and insufficient demand. The majority of the EV1s were subsequently recalled and destroyed, leading to significant public outcry and debate about the future of electric vehicles. This period marked a low point for the EV market, with many industry observers questioning the viability of electric cars. It wasn't until years later, with the advent of Tesla Motors and its innovative approach to electric vehicles, that the EV market began to see a resurgence and set the stage for the electric car revolution that would follow.
 
 #
+
+> Alex: *"Electric vehicles are slowly popularizing in an excruciatingly slow and opposed revolution of road travel."*
+
+#
 ### Related Links
 
 [Car Design](https://github.com/sourceduty/Car_Design)
