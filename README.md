@@ -109,6 +109,10 @@ The EV1's story came to an abrupt end in 2003 when General Motors decided to dis
 > *"If the EV revolution was exactly like the AI revolution, then gasoline would now be illegal."*
 
 #
+
+![Off-road Tesla](https://github.com/user-attachments/assets/1d184ab9-75a2-4c0d-a5f2-4a016c1e4f1f)
+
+#
 ### Related Links
 
 [Car Design](https://github.com/sourceduty/Car_Design)
