@@ -103,6 +103,47 @@ During this period, the EV1 had few direct competitors in the market. Other auto
 The EV1's story came to an abrupt end in 2003 when General Motors decided to discontinue the program, citing financial losses and insufficient demand. The majority of the EV1s were subsequently recalled and destroyed, leading to significant public outcry and debate about the future of electric vehicles. This period marked a low point for the EV market, with many industry observers questioning the viability of electric cars. It wasn't until years later, with the advent of Tesla Motors and its innovative approach to electric vehicles, that the EV market began to see a resurgence and set the stage for the electric car revolution that would follow.
 
 #
+### Ford F-150 Lightning, Rivian R1T, GMC Hummer EV, and Tesla Cybertruck made in 2022.
+
+| Attribute          | Ford F-150 Lightning (2022) | Rivian R1T (2022)         | GMC Hummer EV (2022)        | Tesla Cybertruck (2022)  |
+|--------------------|-----------------------------|---------------------------|-----------------------------|--------------------------|
+| Engine Name        | Dual Electric Motors        | Quad-Motor AWD            | 3-Motor Electric            | Tri-Motor AWD            |
+| Engine Type        | Electric                    | Electric                  | Electric                    | Electric                 |
+| Year               | 2022                        | 2022                      | 2022                        | 2022                     |
+| Cost (Base MSRP)   | $39,974                     | $67,500                   | $108,700                    | $39,900 (estimated)      |
+| Towing Capacity    | 10,000 lbs                  | 11,000 lbs                | 7,500 lbs                   | 14,000 lbs               |
+| Bed Capacity       | 2,000 lbs                   | 1,760 lbs                 | 1,300 lbs                   | 3,500 lbs                |
+| Horsepower         | 452 HP (Standard)           | 835 HP                    | 1,000 HP                    | 800 HP                   |
+| Torque             | 775 lb-ft                   | 908 lb-ft                 | 11,500 lb-ft                | 1,000 lb-ft              |
+| Transmission       | Single-speed automatic      | Single-speed automatic    | Single-speed automatic      | Single-speed automatic   |
+| Range (Battery)    | 230-320 miles               | 314 miles                 | 329 miles                   | 500+ miles (estimated)   |
+| Product Appeal     | High                        | High                      | High                        | High                     |
+| Company Reputation | Strong                      | Emerging                  | Strong (Premium)            | Strong (Innovative)      |
+| Safety Features    | Standard                    | Advanced                  | Advanced                    | Advanced                 |
+| Technology Package | Advanced                    | Advanced                  | Ultra-Advanced              | Ultra-Advanced           |
+| Interior Comfort   | Good                        | Excellent                 | Premium                     | Excellent                |
+| Warranty           | 3 years / 36,000 miles      | 5 years / 60,000 miles    | 3 years / 36,000 miles      | 4 years / 50,000 miles   |
+| Advantage          | Affordable, Work-Oriented   | Adventure-Ready, Premium  | High-End, Luxury Tech       | Long Range, Max Towing   |
+
+<br>
+
+In the 2022 electric truck market, the Ford F-150 Lightning, Rivian R1T, GMC Hummer EV, and Tesla Cybertruck offer different strengths, from towing capacity to range and price. The Tesla Cybertruck leads in towing capacity (14,000 lbs) and range (over 500 miles), making it an ideal option for those prioritizing range and heavy-duty tasks. The Rivian R1T is a close competitor in towing capacity (11,000 lbs) but offers less range at 314 miles. Meanwhile, the GMC Hummer EV excels in performance with an impressive 1,000 horsepower, though it has the lowest towing capacity (7,500 lbs) among the four.
+
+Price-wise, the Ford F-150 Lightning offers the most affordable base MSRP at $39,974, making it the most accessible choice, while the GMC Hummer EV stands out as the most expensive ($108,700), reflecting its premium positioning and high-tech features. The Rivian R1T and Tesla Cybertruck fall between these two, with the Rivian offering strong performance at a higher price and the Tesla aiming to deliver advanced technology at a competitive price point.
+
+In terms of technology and interior comfort, both the GMC Hummer EV and Tesla Cybertruck offer ultra-advanced technology packages, appealing to those who want cutting-edge features. The Rivian R1T and Ford F-150 Lightning also come with advanced tech, though the Ford is more focused on being a practical, work-oriented truck. Overall, the choice depends on whether buyers prioritize affordability, range, towing capacity, or advanced features. Each truck offers a compelling option in the growing electric truck segment.
+
+#### Competitive Advantage
+
+When considering the competitive advantages of each truck, the Ford F-150 Lightning's strength lies in its affordability and practical features. With the lowest base MSRP, it is accessible for many buyers, especially those who need a reliable, work-oriented electric truck. It also offers decent towing capacity and range, making it a versatile option for both daily driving and light to medium-duty tasks.
+
+The Rivian R1T is positioned as an adventure-ready, premium electric truck, appealing to consumers who want luxury combined with off-road capabilities. It offers a strong balance between performance and technology, along with solid towing and range capabilities. Its unique advantage is its reputation as a versatile vehicle designed for outdoor enthusiasts, with excellent interior comfort and an emerging brand identity.
+
+The GMC Hummer EV, on the other hand, is aimed at a high-end market, offering a luxurious experience with cutting-edge technology. Its ultra-advanced features, premium interior, and massive horsepower make it stand out for those seeking a statement vehicle that combines off-road capability with an upscale driving experience. Despite its lower towing capacity, it excels in terms of raw power and luxury.
+
+Lastly, the Tesla Cybertruck offers a competitive advantage with its extremely long range and maximum towing capacity. While its design and technology may appeal to futurists and those looking for innovation, the Cybertruck's impressive range and towing capacity make it a strong contender for those who need serious hauling capability and aren't put off by the bold design. Its advantage lies in its combination of power, efficiency, and Tesla's reputation for cutting-edge electric technology.
+
+#
 
 > Alex: *"Electric vehicles are popularizing in an excruciatingly slow and opposed revolution of road travel."*
 
