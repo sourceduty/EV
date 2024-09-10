@@ -1,6 +1,8 @@
 ![Antique Electric Car](https://github.com/sourceduty/EV/assets/123030236/60562e85-2628-4ac0-94ab-0886f27adeb9)
 
-***
+> Electricity, batteries, electric vehicles and the future.
+
+#
 
 Electric Motors
 
