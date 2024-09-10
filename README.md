@@ -103,7 +103,7 @@ During this period, the EV1 had few direct competitors in the market. Other auto
 The EV1's story came to an abrupt end in 2003 when General Motors decided to discontinue the program, citing financial losses and insufficient demand. The majority of the EV1s were subsequently recalled and destroyed, leading to significant public outcry and debate about the future of electric vehicles. This period marked a low point for the EV market, with many industry observers questioning the viability of electric cars. It wasn't until years later, with the advent of Tesla Motors and its innovative approach to electric vehicles, that the EV market began to see a resurgence and set the stage for the electric car revolution that would follow.
 
 #
-### Ford F-150 Lightning, Rivian R1T, GMC Hummer EV, and Tesla Cybertruck made in 2022.
+### Ford F-150 Lightning, Rivian R1T, GMC Hummer EV, and Tesla Cybertruck (2022)
 
 | Attribute          | Ford F-150 Lightning (2022) | Rivian R1T (2022)         | GMC Hummer EV (2022)        | Tesla Cybertruck (2022)  |
 |--------------------|-----------------------------|---------------------------|-----------------------------|--------------------------|
