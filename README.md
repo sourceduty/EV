@@ -159,7 +159,7 @@ From a digital improvement value perspective, the trucks demonstrate a range of 
 | Physical Efficiency      | High                        | High               | Low                   | Very High              |
 | Physical Satisfaction    | High                        | High               | Premium               | High                   |
 | Physical Impact          | Strong in affordability     | Strong in adventure| Strong luxury appeal  | Strong in range/towing |
-
+| Attribute               | Ford F-150 Lightning (2022) | Rivian R1T (2022)  | GMC Hummer EV (2022) | Tesla Cybertruck (2022) |
 | Digital Usability        | Good                        | Excellent          | Advanced              | Ultra-Advanced         |
 | Digital Efficiency       | High                        | High               | Ultra-High            | Ultra-High             |
 | Digital Satisfaction     | High                        | Premium            | Premium               | High                   |
