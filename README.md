@@ -105,6 +105,27 @@ During this period, the EV1 had few direct competitors in the market. Other auto
 The EV1's story came to an abrupt end in 2003 when General Motors decided to discontinue the program, citing financial losses and insufficient demand. The majority of the EV1s were subsequently recalled and destroyed, leading to significant public outcry and debate about the future of electric vehicles. This period marked a low point for the EV market, with many industry observers questioning the viability of electric cars. It wasn't until years later, with the advent of Tesla Motors and its innovative approach to electric vehicles, that the EV market began to see a resurgence and set the stage for the electric car revolution that would follow.
 
 #
+### Low Speed Warning Sounds
+
+![Tesla](https://github.com/user-attachments/assets/169679e2-322d-4804-af5e-6ed3d255ebaf)
+
+Electric vehicle (EV) warning sounds are designed to address the fact that EVs operate much more quietly than gasoline-powered vehicles, particularly at low speeds. These sounds are crucial for alerting pedestrians, cyclists, and other road users to the presence of the EV. Unlike gasoline vehicles, which naturally produce engine noise that increases with acceleration, EVs are almost silent, requiring artificial sound systems to make them detectable. EV warning sounds typically activate at speeds below 30 km/h (18 mph), when engine noise would be inaudible in a traditional vehicle. These sounds are also directional, meaning they adjust depending on the vehicle’s speed and movement, including while reversing.
+
+<br>
+
+| Vehicle Type          | Forward Sound               | Reversing Sound              | Speed Range for Activation | Customization Available | Sound Description |
+|-----------------------|-----------------------------|------------------------------|----------------------------|-------------------------|-------------------|
+| Nissan Leaf (EV)       | High-pitched hum            | Similar hum, lower frequency  | Below 30 km/h               | No                      | Artificial hum    |
+| Tesla Model 3 (EV)     | Futuristic, space-like tones| Same tone, modulated for reverse | Below 30 km/h               | Yes (Limited)           | Futuristic hum    |
+| Chevrolet Bolt (EV)    | Synthetic motor sound       | Repeating beep                | Below 30 km/h               | No                      | Low motor-like sound |
+| Gasoline Car (General) | Natural engine sound        | Winding engine noise          | Always active               | No                      | Mechanical winding|
+| Commercial Truck       | Engine noise and beeping    | Beeping alert                 | Always active               | No                      | Loud beeping      |
+
+<br>
+
+The table provides a comparison between the warning sounds of electric vehicles (EVs) and gasoline-powered vehicles, highlighting the differences in their sound characteristics. For EVs like the Nissan Leaf, Tesla Model 3, and Chevrolet Bolt, artificial sounds are employed at low speeds (typically below 30 km/h) to alert pedestrians, with variations such as high-pitched hums or futuristic tones. These sounds are more customizable, with some manufacturers offering limited personalization options. In contrast, gasoline vehicles rely on natural engine noise, particularly a winding sound when reversing, which is always active and does not require artificial enhancements. Commercial trucks often supplement their engine noise with loud beeping alerts, especially when reversing, to ensure greater pedestrian awareness.
+
+#
 ### Ford F-150 Lightning, Rivian R1T, GMC Hummer EV, and Tesla Cybertruck (2022)
 
 | Attribute          | Ford F-150 Lightning (2022) | Rivian R1T (2022)         | GMC Hummer EV (2022)        | Tesla Cybertruck (2022)  |
