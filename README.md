@@ -146,6 +146,25 @@ The GMC Hummer EV, on the other hand, is aimed at a high-end market, offering a 
 Lastly, the Tesla Cybertruck offers a competitive advantage with its extremely long range and maximum towing capacity. While its design and technology may appeal to futurists and those looking for innovation, the Cybertruck's impressive range and towing capacity make it a strong contender for those who need serious hauling capability and aren't put off by the bold design. Its advantage lies in its combination of power, efficiency, and Tesla's reputation for cutting-edge electric technology.
 
 #
+### EV Motors
+
+![Electric](https://github.com/user-attachments/assets/526ad3fa-5ffc-4a47-87ee-f38a5d5c7d3b)
+
+| Rank | Motor Type              | Brand       | Vehicle Model(s)                              |
+|------|-------------------------|-------------|-----------------------------------------------|
+| 1    | Permanent Magnet Synchronous Motor (PMSM) | Tesla        | Model S, Model 3, Model X, Model Y      |
+| 2    | AC Induction Motor       | Rivian      | R1T, R1S           |
+| 3    | IPMSM (Interior Permanent Magnet Synchronous Motor) | Hyundai       | Ioniq 5, Kona Electric   |
+| 4    | Permanent Magnet Synchronous Motor (PMSM) | Nissan       | Leaf              |
+| 5    | Permanent Magnet Synchronous Motor (PMSM) | BMW          | i3, i4, iX3            |
+
+<br>
+
+Electric vehicle (EV) motors have undergone significant advancements in recent years, with the Permanent Magnet Synchronous Motor (PMSM) emerging as the most popular type due to its efficiency and performance. Tesla, for example, employs PMSM in all its key models, including the Model S, Model 3, Model X, and Model Y. This motor type provides excellent acceleration and range. Hyundai's IPMSM variant, used in models like the Ioniq 5 and Kona Electric, represents a more advanced design that incorporates an interior magnet structure, offering improved cooling and even better efficiency.
+
+Another highly regarded motor is the AC Induction Motor, which is known for durability and ease of control. Rivian uses this motor type in its R1T and R1S models, focusing on delivering a blend of power and off-road capability. In contrast, Nissan and BMW continue to refine their versions of PMSM, as seen in models like the Nissan Leaf and BMW i-series. These motors enable precise control, good energy efficiency, and relatively lower weight, which are essential for enhancing the overall driving experience in EVs.
+
+#
 
 > Alex: *"Electric vehicles are popularizing in an excruciatingly slow and opposed revolution of road travel."*
 
