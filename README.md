@@ -243,6 +243,10 @@ In summary, Tesla’s PMSM ranks highest in overall improvement value due to its
 [Improvement Value](https://github.com/sourceduty/Improvement_Value)
 <br>
 [Vehicle Design](https://github.com/sourceduty/Vehicle_Design)
+<br>
+[Electricity Game](https://github.com/sourceduty/Electricity_Game)
+<br>
+[Tesla Design](https://github.com/sourceduty/Tesla_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
