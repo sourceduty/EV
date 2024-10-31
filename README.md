@@ -233,8 +233,9 @@ In summary, Tesla’s PMSM ranks highest in overall improvement value due to its
 > *"If the EV revolution was exactly like the AI revolution, then gasoline would now be illegal."*
 
 #
-
 ![Off-road Tesla](https://github.com/user-attachments/assets/1d184ab9-75a2-4c0d-a5f2-4a016c1e4f1f)
+#
+![Electric Roads](https://github.com/user-attachments/assets/cecaca85-65d4-49f5-b692-31ada48c8777)
 
 #
 ### Related Links
