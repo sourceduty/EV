@@ -235,6 +235,8 @@ Electric trucks are engineered with specific water-fording capabilities to ensur
 
 In most electric trucks, interior electrical systems are positioned higher than the specified water-fording depths. Typically, the seat cushions are located around 3 feet (0.91 meters) from the ground, placing the center console and dashboard electronics even higher. This design ensures a safety margin, reducing the risk of water intrusion into sensitive areas during water crossings.
 
+Driving the Tesla Cybertruck with the back lowered and the front raised through water could theoretically provide additional clearance for forward-facing electronics like the dashboard and center console by increasing the angle of the vehicle's approach and keeping these components higher relative to the waterline.
+
 | Truck Model             | Water-Fording Depth | Approximate Height of Interior Electronics |
 |-------------------------|---------------------|--------------------------------------------|
 | Rivian R1T              | 3 feet (0.91 m)     | 3 feet (0.91 m) or higher                  |
