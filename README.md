@@ -227,6 +227,28 @@ Lastly, the broader impact of these motors on the EV market cannot be ignored. T
 In summary, Tesla’s PMSM ranks highest in overall improvement value due to its combination of high performance, efficiency, and broad market influence. Hyundai’s IPMSM follows closely with its advanced design that enhances both cooling and efficiency. Nissan and BMW’s PMSM motors are highly refined, providing strong efficiency and precision, while Rivian’s AC Induction Motor stands out for its durability and appeal to a specialized off-road market. Each motor type offers unique improvements, contributing to the evolution of electric vehicles in different ways.
 
 #
+### Water-Fording
+
+![Underwater](https://github.com/user-attachments/assets/a5ca1303-9e91-4f24-b306-50e7ee38adb3)
+
+Electric trucks are engineered with specific water-fording capabilities to ensure safe operation during water crossings. These limits are established to prevent water from entering the cabin and reaching critical interior electrical components, such as the center console, dashboard electronics, and seat controls. Adhering to the manufacturer's recommended water-fording limits is essential to prevent potential damage to the vehicle's electrical systems.
+
+In most electric trucks, interior electrical systems are positioned higher than the specified water-fording depths. Typically, the seat cushions are located around 3 feet (0.91 meters) from the ground, placing the center console and dashboard electronics even higher. This design ensures a safety margin, reducing the risk of water intrusion into sensitive areas during water crossings.
+
+| Truck Model             | Water-Fording Depth | Approximate Height of Interior Electronics |
+|-------------------------|---------------------|--------------------------------------------|
+| Rivian R1T              | 3 feet (0.91 m)     | 3 feet (0.91 m) or higher                  |
+| Tesla Cybertruck        | 2.5 feet (0.76 m)   | 3 feet (0.91 m) or higher                  |
+| Ford F-150 Lightning    | Not specified       | 3 feet (0.91 m) or higher                  |
+| GMC Hummer EV           | 2 feet (0.61 m)     | 3 feet (0.91 m) or higher                  |
+| Chevrolet Silverado EV  | Not specified       | 3 feet (0.91 m) or higher                  |
+| Lordstown Endurance     | Not specified       | 3 feet (0.91 m) or higher                  |
+| Bollinger B2            | Not specified       | 3 feet (0.91 m) or higher                  |
+| Atlis XT                | Not specified       | 3 feet (0.91 m) or higher                  |
+| Nikola Badger           | Not specified       | 3 feet (0.91 m) or higher                  |
+| Canoo Pickup Truck      | Not specified       | 3 feet (0.91 m) or higher                  |
+
+#
 
 > Alex: *"Electric vehicles are popularizing in an excruciatingly slow and opposed revolution of road travel."*
 
