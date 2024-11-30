@@ -27,10 +27,6 @@ During this period, there was a heightened interest in alternative energy source
 However, despite this initial interest and investment, the technology of the time was still limited. Battery technology had not yet reached a level of efficiency and affordability that could make electric cars practical for mainstream consumers. Additionally, the oil crises were eventually mitigated, leading to a decrease in urgency for alternative energy solutions.
 
 #
-
-![Tesla Union Poster](https://github.com/sourceduty/EV/assets/123030236/008c6bac-a95c-4754-bb89-0a2ee437577a)
-
-#
 ### EV History Timeline
 
 1830s-1840s: Early experiments with electric vehicles (EVs) began. Innovators like Robert Anderson and Thomas Davenport developed primitive electric carriages.
@@ -79,6 +75,8 @@ However, despite this initial interest and investment, the technology of the tim
 
 #
 ### Tesla Popularity
+
+![Tesla Union Poster](https://github.com/sourceduty/EV/assets/123030236/008c6bac-a95c-4754-bb89-0a2ee437577a)
 
 Tesla Motors gained popularity over other car brands for several key reasons. One of the most significant factors is its early and aggressive focus on electric vehicles (EVs) at a time when the automotive industry was predominantly centered around internal combustion engines. Tesla's visionary founder, Elon Musk, set out to create not just a car, but an entirely new approach to automotive design and energy sustainability. Tesla's first major success, the Model S, demonstrated that electric cars could be both high-performing and luxurious, shattering the stereotype of EVs as slow, utilitarian vehicles with limited range. The company's commitment to advancing battery technology, software innovation, and the establishment of a comprehensive Supercharger network for convenient long-distance travel further solidified its position as a leader in the EV market.
 
@@ -215,6 +213,8 @@ Electric vehicle (EV) motors have undergone significant advancements in recent y
 Another highly regarded motor is the AC Induction Motor, which is known for durability and ease of control. Rivian uses this motor type in its R1T and R1S models, focusing on delivering a blend of power and off-road capability. In contrast, Nissan and BMW continue to refine their versions of PMSM, as seen in models like the Nissan Leaf and BMW i-series. These motors enable precise control, good energy efficiency, and relatively lower weight, which are essential for enhancing the overall driving experience in EVs.
 
 #### Improvement Value
+
+![Tesla Charger Backpack](https://github.com/user-attachments/assets/409f1d90-29cf-4a21-bfad-cee5f2add47f)
 
 Electric vehicle (EV) motors have seen significant advancements in recent years, and a detailed assessment of their physical improvement value can be made by considering key dimensions like usability, efficiency, satisfaction, and impact. The most common motor type today is the Permanent Magnet Synchronous Motor (PMSM), which is used by brands such as Tesla, Nissan, and BMW. Tesla, for instance, employs PMSM across its major models (Model S, Model 3, Model X, and Model Y) due to its precise torque control and smooth acceleration. The PMSM is known for its ease of use, contributing to a highly intuitive driving experience that enhances usability. Similarly, Nissan and BMW have refined their versions of the PMSM, making it lightweight and energy-efficient, which improves control and enhances overall driving comfort.
 
